@@ -3,11 +3,11 @@ Introdução a Programação: Projeto Final com Introdução a Engenharia e ao M
 
 ## Equipe
 
-- Austin David Roldan Urquiza
+- Austin David Roldan Urquiza (2025008610)
 - Beatriz Helena Moia Damião (2025004999)
-- Fabio 
-- Gabriel
-- Maria Luisa
+- Fabio Franco Ferreira (2025017057)
+- Gabriel Almeida Castro (2025008728)
+- Maria Luisa Barbosa dos Santos (2025016130)
 
 ## Objetivo
 
@@ -15,4 +15,8 @@ Contruir bla bla bla
 
 ## Diagrama em Blocos 
 
-[link](texto)
+<img src= "link..." />
+
+## Foto do Protótipo 
+
+<img src= "link..." />
