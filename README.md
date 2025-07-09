@@ -59,6 +59,7 @@ Desenvolver um sistema de automação embarcado que integre a monitorização do
 <img src= "https://github.com/beatrizhmd/ECOP11A-projeto-final/blob/main/img/foto_projeto04.jpg?raw=true" />
 
 ### Vídeo de funcionamento 
+"https://drive.google.com/file/d/19R_yu4tPYxlNiBjuQqYqckEuPdZ3HNWv/view?usp=sharing"
 
 ### Apresentação de slides 
 
