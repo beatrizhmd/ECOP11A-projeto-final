@@ -62,6 +62,3 @@ Desenvolver um sistema de automação embarcado que integre a monitorização do
 
 ### Apresentação de slides 
 
-### Foto do Protótipo 
-
-<img src= "link..." />
