@@ -44,10 +44,19 @@ Desenvolver um sistema de automação embarcado que integre a monitorização do
 ## Fase 2: Implementação 
 
 ### Diagrama esquemático:
+<img src= "https://github.com/beatrizhmd/ECOP11A-projeto-final/blob/main/img/diagrama_esquematico.png?raw=true" />
 
 ## Fase 3: Documentação e apresentação 
 
 ### Foto do protótipo 
+
+<img src= "https://github.com/beatrizhmd/ECOP11A-projeto-final/blob/main/img/foto_projeto.jpg?raw=true" />
+
+<img src= "https://github.com/beatrizhmd/ECOP11A-projeto-final/blob/main/img/foto_projeto02.jpg?raw=true" />
+
+<img src= "https://github.com/beatrizhmd/ECOP11A-projeto-final/blob/main/img/foto_projeto03.jpg?raw=true" />
+
+<img src= "https://github.com/beatrizhmd/ECOP11A-projeto-final/blob/main/img/foto_projeto04.jpg?raw=true" />
 
 ### Vídeo de funcionamento 
 
