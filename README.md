@@ -62,4 +62,4 @@ Desenvolver um sistema de automação embarcado que integre a monitorização do
 
 ### Apresentação de slides 
 
-<img src= "https://github.com/beatrizhmd/ECOP11A-projeto-final/blob/main/docs/AutoMind_Projeto_Final.pdf" />
+<"Apresentação" "https://github.com/beatrizhmd/ECOP11A-projeto-final/blob/main/docs/AutoMind_Projeto_Final.pdf" />
