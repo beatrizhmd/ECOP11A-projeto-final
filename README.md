@@ -39,7 +39,7 @@ Desenvolver um sistema de automação embarcado que integre a monitorização do
 
 ### Diagrama em blocos
 
-<img src= "link..." />
+<img src= "https://github.com/beatrizhmd/ECOP11A-projeto-final/blob/main/img/diagrama_blocos.png?raw=true" />
 
 ## Fase 2: Implementação 
 
