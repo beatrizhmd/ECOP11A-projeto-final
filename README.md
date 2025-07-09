@@ -1,5 +1,5 @@
 # ECOP11A - Projeto Final Introdução a Engenharia 
-Introdução a Programação: Projeto Final com Introdução a Engenharia e ao Método Científico 
+Técnicas de Programação: Projeto Final com Introdução a Engenharia e ao Método Científico 
 
 ## Equipe
 
